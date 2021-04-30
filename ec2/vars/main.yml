@@ -1,8 +1,8 @@
 ---
 # vars file for ec2
 
-aws_access_key: "AKIA2XKFBWAIFYJ3D4NN"
-aws_secret_key: "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"
+aws_access_key: "access_key"
+aws_secret_key: "secret_key"
 key_name: test
 image_id: "ami-0bcf5425cdc1d8a85"
 count: 1
