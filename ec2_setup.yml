@@ -1,0 +1,6 @@
+- hosts: localhost
+  gather_facts: False 
+  roles: 
+  - name: "EC2 Instance Launch"
+    role: /root/lwarthdir/ansible/playbooks/aws_k8s/ec2
+
